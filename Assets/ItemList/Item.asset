@@ -13,11 +13,8 @@ MonoBehaviour:
   m_Name: Item
   m_EditorClassIdentifier: 
   itemList:
-  - itemId: 0
-    itemName: 
-    dropItemId1: 0
-    dropItemName1: 
-    sprite1: {fileID: 0}
-    dropItemId2: 0
-    dropItemName2: 
-    sprite2: {fileID: 0}
+  - itemName: "\u30E9\u30A4\u30BF\u30FC"
+    dropItemId1: 1
+    dropItemName1: "\u7740\u706B\u88C5\u7F6E"
+    dropItemId2: 2
+    dropItemName2: "\u6CB9"

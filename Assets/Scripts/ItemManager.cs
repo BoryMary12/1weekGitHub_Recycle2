@@ -12,14 +12,12 @@ public class ItemManager : ScriptableObject
 [System.Serializable]
 public class Item
 {
-    public int itemId;
+    // public int itemId;
     public string itemName;
     public int dropItemId1;
     public string dropItemName1;
-    public Sprite sprite1;
     public int dropItemId2;
     public string dropItemName2;
-    public Sprite sprite2;
 }
 
 
